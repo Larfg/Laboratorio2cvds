@@ -4,7 +4,7 @@
   <groupId>edu.eci.cvds</groupId>
   <artifactId>Patterns</artifactId>
   <packaging>jar</packaging>
-  <version>1</version>
+  <version>1.0</version>
   <name>Patterns</name>
   <url>http://maven.apache.org</url>
   <properties>
